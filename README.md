@@ -65,7 +65,7 @@ Implemented using Laravel Policies.
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/laravel-multi-tenant-url-shortener.git
+git clone https://github.com/mohitchoudharydev/laravel-multi-tenant-url-shortener.git
 ```
 
 Install dependencies:
@@ -93,6 +93,16 @@ Run migrations:
 ```bash
 php artisan migrate
 ```
+Run seeders:
+
+```bash
+php artisan db:seed
+```
+
+Or run migrations and seeders together:
+
+```bash
+php artisan migrate --seed
 
 Start development server:
 
