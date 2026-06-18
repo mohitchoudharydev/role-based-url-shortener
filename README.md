@@ -65,7 +65,7 @@ Implemented using Laravel Policies.
 Clone the repository:
 
 ```bash
-git clone https://github.com/mohitchoudharydev/laravel-multi-tenant-url-shortener.git
+git clone https://github.com/mohitchoudharydev/role-based-url-shortener.git
 ```
 
 Install dependencies:
